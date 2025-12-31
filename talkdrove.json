@@ -1,0 +1,16 @@
+{
+  "bot-name": "Xpro-MD",
+  "description": "VRECE-MD made for people on Earth",
+  "logo": "https://i.ibb.co/sdsy6LG6/3mfp-OTP7c1.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://session.talkdrove.com",
+  "owner-verification": "talkdrove@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put session id",
+      "value": "",
+      "required": true
+
+    }
+  }
+}
